@@ -1,4 +1,4 @@
-Hi 👋 My name is Valiullin Bulat
+Hi 👋 My name is Bulat
 ================================
 
 Novice frontend-developer
