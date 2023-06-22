@@ -6,7 +6,7 @@ Novice frontend-developer
 
 * 🌍  I'm based in Kazan
 * ✉️  You can contact me at [https://t.me/userprog](https://t.me/userprog)
-* 🚀  I'm currently working on [social\_network](http://github.com/offme16/social_network)
+
 
 ### Skills
 
