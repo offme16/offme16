@@ -4,9 +4,6 @@ Hi 👋 My name is Bulat
 Novice frontend-developer
 -------------------------
 
-* 🌍  I'm based in Kazan
-* ✉️  You can contact me at [https://t.me/userprog](https://t.me/userprog)
-
 
 ### Skills
 
