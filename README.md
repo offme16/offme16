@@ -1,7 +1,7 @@
 Hi 👋 My name is Bulat
 =========================
 
-Novice frontend-developer
+Frontend-developer
 -------------------------
 
 
